@@ -31,6 +31,7 @@ Mail me at 👉 &nbsp;&nbsp;myfoodpod@gmail.com
 [<img align="left" alt="Mysql" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][youtube]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][youtube]
 [<img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" />][youtube]
+[<img align="left" alt="PHP" width="26px" src="https://visualpharm.com/assets/698/C%20Programming-595b40b65ba036ed117d3edc.svg" />][youtube]
 [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][youtube]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][youtube]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][youtube]
@@ -42,21 +43,10 @@ Mail me at 👉 &nbsp;&nbsp;myfoodpod@gmail.com
 
 ---
 
-<details width="500">
-  <summary style="shadow: none;outline: none;">:zap: GitHub Stats</summary>
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Aaditya-Pyarla)](https://github.com/anuraghazra/github-readme-stats)
 
-  <img align="left" alt="Aaditya's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Aadityapyarla&show_icons=true&hide_border=true" style="shadow: none;outline: none;"/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aaditya-Pyarla&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
-</details>
-
-</br>
-
-<details  width="500">
-  
-  <summary style="shadow: none;outline: none;">:zap: Most Used Languages</summary>
-
-<img align="left" alt="Aaditya's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aadityapyarla" style="shadow: none;outline: none;"/>
-
-</details>
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Aaditya-Pyarla&repo=2do.github.io)](https://github.com/anuraghazra/github-readme-stats)
 
 [youtube]: https://github.com/Aadityapyarla
