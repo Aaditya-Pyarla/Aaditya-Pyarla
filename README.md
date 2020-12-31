@@ -43,9 +43,14 @@ Mail me at 👉 &nbsp;&nbsp;myfoodpod@gmail.com
 
 ---
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Aaditya-Pyarla)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Aaditya-Pyarla" />
+</a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aaditya-Pyarla&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://github.com/Aaditya-Pyarla/2do.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aaditya-Pyarla&langs_count=8" />
+</a>
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Aaditya-Pyarla&repo=2do.github.io)](https://github.com/anuraghazra/github-readme-stats)
 
